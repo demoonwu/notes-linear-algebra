@@ -7,7 +7,7 @@
 
 线性代数笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
 
-`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.jupyter.org/github/zlotus/notes-linear-algebra/blob/master/ReadMe.ipynb) 中查看该项目。
+`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](https://nbviewer.jupyter.org/github/demoonwu/notes-linear-algebra/tree/master/ReadMe.ipynb) 中查看该项目。
 
 ----
 
