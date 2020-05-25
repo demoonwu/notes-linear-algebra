@@ -3,6 +3,7 @@
 ## 简介
 
 **作者：子实**
+***DemoonWu***
 
 线性代数笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
 
