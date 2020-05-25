@@ -2,8 +2,9 @@
 
 ## 简介
 
-**作者：子实**
-***DemoonWu***
+**作者：**
+- ***子实***
+- ***DemoonWu***
 
 线性代数笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
 
@@ -13,7 +14,7 @@
 
 ## 目录
 
-来自MIT课程线性代数的笔记，可以在[麻省理工公开课：线性代数](http://open.163.com/special/opencourse/daishu.html)观看。
+来自MIT课程线性代数的笔记，可以在[麻省理工公开课：线性代数](https://www.bilibili.com/video/BV1zx411g7gq)观看。
 
 - 第01集 [方程组的几何解释](chapter01.ipynb)
 - 第02集 [矩阵消元](chapter02.ipynb)
